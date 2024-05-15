@@ -1,8 +1,8 @@
 # Sobre-mim-About-me
 
->*print (" Ola me chamo Emanuel, Tenho 19 anos, um jovem amante de **back-end**, em busca do seu primeiro trabalho. ")*  
+*print (" Ola me chamo Emanuel, Tenho 19 anos, um jovem amante de **back-end**, em busca do seu primeiro trabalho. ")*  
 
->*print (" Hello, my name is Emanuel. I am 19 years sold, a young enthusiast of **back-end**, seeking my first job")*
+*print (" Hello, my name is Emanuel. I am 19 years sold, a young enthusiast of **back-end**, seeking my first job")*
 
 
 ## Comunicações/Communications
