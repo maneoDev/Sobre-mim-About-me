@@ -13,7 +13,7 @@
 ## Habilidades/Skills
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=blue) ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=blue)    ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=blue)
-
+![GO](https://img.shields.io/badge/GO-black?style=for-the-badge&logo=GO&logoColor=blue) !
 ## Certificações/Certifications
 - Bacharelado em Sistemas de informação - [UNINTA](https://uninta.edu.br/site/)
 
