@@ -17,7 +17,4 @@
 ## Certificações/Certifications
 - Bacharelado em Sistemas de informação - [UNINTA](https://uninta.edu.br/site/)
 
-- Curso Técnico em Informatica - [IFCE](https://ifce.edu.br/)
-
-- Bootcamp Python AI Backend Developer - [DIO](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer)
 
